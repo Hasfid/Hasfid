@@ -45,8 +45,8 @@
   <tr>
     <td>
       <ul>
-        <li><b>Nombre:</b> Pokemon Genesis.</li>
-        <li><b>Tecnologías:</b> Java, Java Swing.</li>
+        <li><b>Nombre:</b> ...</li>
+        <li><b>Tecnologías:</b> ...</li>
         <li><b>Descripción:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consecut. Duis aute irure dolor in reprenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
       </ul>
     </td>
@@ -59,8 +59,8 @@
   <tr>
     <td>
       <ul>
-        <li><b>Nombre:</b> Pokemon Genesis.</li>
-        <li><b>Tecnologías:</b> Java, Java Swing.</li>
+        <li><b>Nombre:</b> ...</li>
+        <li><b>Tecnologías:</b> ...</li>
         <li><b>Descripción:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consecut. Duis aute irure dolor in reprenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
       </ul>
     </td>
